@@ -5,7 +5,7 @@ This is a Portal for Lane VC
 ## About this Software
 - This is a REACT project built as a portal.
 
-## Purpose for creating this software
+## Collaborators
 - Steven Ssebuma
 - Jonathan Aloya
 - Owen Kasule
@@ -13,8 +13,6 @@ This is a Portal for Lane VC
 - Erjok Deng
 - Erjok Agot
 - Ivan Ssembatya
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
